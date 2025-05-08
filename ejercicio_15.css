@@ -1,0 +1,18 @@
+h1{
+    margin: 300px auto 500px;
+    width: 500px;
+    height: 250px;
+    padding: 25px;
+    color:green;
+    background-color: rgb(243, 234, 234);
+    border-radius: 4px;
+    text-align: center;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    font-size: 4em;
+}
+
+body {
+    background-color: green;
+    background-image: linear-gradient(43deg,#4158de 0%,red 100%,yellow 50%,white 35%);
+}
